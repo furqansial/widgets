@@ -1,5 +1,4 @@
 #import libraries
-from numpy import imag
 import streamlit as st
 from PIL import Image
 
